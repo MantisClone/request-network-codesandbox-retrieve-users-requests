@@ -25,7 +25,7 @@ export default function Home() {
   }, []);
   return (
     <div className="App">
-      <h1>Retrieve a user's requests </h1>
+      <h1>Retrieve a user's requests</h1>
       <p>
         <b>User:</b> {address}
       </p>
